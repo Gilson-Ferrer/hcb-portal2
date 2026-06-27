@@ -4,3 +4,4 @@ __pycache__/
 venv/
 stress.py
 logs.py
+gerar_qrcode.py

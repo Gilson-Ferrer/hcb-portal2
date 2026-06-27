@@ -1,0 +1,6 @@
+hcb.db
+__pycache__/
+.env
+venv/
+stress.py
+logs.py
